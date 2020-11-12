@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.25" height="23.22" viewBox="0 0 25.25 23.22">
+	<style type="text/css">
+		.st1{stroke:#625e59;fill:none;stroke-width:1;}
+		.st0{stroke:#625e59;fill:none;stroke-width:2;}
+	</style>
+	<path class="st0" d="M24.25 -18.34L1 -18.34L1 -1L24.25 -1Z"/>
+	<path class="st0" d="M8.37 -22.22L2.93 -22.22L2.93 -18.6L8.37 -18.6Z"/>
+	<path class="st0" d="M22.37 -22.22L16.93 -22.22L16.93 -18.6L22.37 -18.6Z"/>
+	<path class="st1" d="M1,8.75L24.25,8.75"/>
+	<path class="st1" d="M4.43,14.5L8.68,14.5"/>
+	<path class="st1" d="M16.43,14.5L20.68,14.5"/>
+	<path class="st1" d="M6.56,12.37L6.56,16.62"/>
+</svg>
